@@ -1,0 +1,37 @@
+copyright: Apache License v2.0
+description: Cloudera's UI library
+name: Cloudera-UI
+sources: [
+  Source/Behaviors/Behavior.CollapsingElements.js,
+  Source/Behaviors/Behavior.ContextMenu.js,
+  Source/Behaviors/Behavior.DataGroupToggle.js,
+  Source/Behaviors/Behavior.FilterInput.js,
+  Source/Behaviors/Behavior.FlashMessage.js,
+  Source/Behaviors/Behavior.HtmlTableCheckSelected.js,
+  Source/Behaviors/Behavior.HtmlTableChromeHack.js,
+  Source/Behaviors/Behavior.HtmlTableClickSelected.js,
+  Source/Behaviors/Behavior.HtmlTableKeyboard.js,
+  Source/Behaviors/Behavior.HtmlTableLiveTreeKeyboard.js,
+  Source/Behaviors/Behavior.HtmlTableMultiSelectMenu.js,
+  Source/Behaviors/Behavior.HtmlTableRestore.js,
+  Source/Behaviors/Behavior.HtmlTableUpdate.js,
+  Source/Behaviors/Behavior.InputFilterHtmlTableZebra.js,
+  Source/Behaviors/Behavior.JFrameFormValidator.js,
+  Source/Behaviors/Behavior.MultiChecks.js,
+  Source/Behaviors/Behavior.SelectWithOther.js,
+  Source/Behaviors/Behavior.SizeTo.js,
+  Source/Behaviors/Behavior.SubmitOnChange.js,
+  Source/Behaviors/Behavior.Timer.js,
+  Source/Utilities/Events.Relay.js,
+  Source/Utilities/Event.Mock.js,
+  Source/Widgets/CollapsingElements.js,
+  Source/Widgets/ContextMenu.js,
+  Source/Widgets/FlashMessage.js,
+  Source/Widgets/MultiChecks.js,
+]
+version: Unknown
+# Source/Widgets/ART.SideBySideSelect.js,
+# Source/Behaviors/Behavior.FitText.js,
+# Source/Behaviors/Behavior.SideBySideSelect.js,
+# Source/Behaviors/Behavior.SplitViewPostFold.js,
+# Source/Behaviors/Behavior.SplitViewScroller.js,

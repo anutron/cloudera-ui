@@ -1,0 +1,37 @@
+copyright: Apache License v2.0
+description: Cloudera's UI library
+name: Cloudera-UI-Tests
+sources: [
+  cloudera-ui/BehaviorFilters/Behavior.CollapsingElements.js,
+]
+version: Unknown
+
+# cloudera-ui/BehaviorFilters/Behavior.ContextMenu.js,
+# cloudera-ui/BehaviorFilters/Behavior.DataGroupToggle.js,
+# cloudera-ui/BehaviorFilters/Behavior.FilterInput.js,
+# cloudera-ui/BehaviorFilters/Behavior.FitText.js,
+# cloudera-ui/BehaviorFilters/Behavior.FlashMessage.js,
+# cloudera-ui/BehaviorFilters/Behavior.HtmlTableCheckSelected.js,
+# cloudera-ui/BehaviorFilters/Behavior.HtmlTableChromeHack.js,
+# cloudera-ui/BehaviorFilters/Behavior.HtmlTableClickSelected.js,
+# cloudera-ui/BehaviorFilters/Behavior.HtmlTableKeyboard.js,
+# cloudera-ui/BehaviorFilters/Behavior.HtmlTableLiveTreeKeyboard.js,
+# cloudera-ui/BehaviorFilters/Behavior.HtmlTableMultiSelectMenu.js,
+# cloudera-ui/BehaviorFilters/Behavior.HtmlTableRestore.js,
+# cloudera-ui/BehaviorFilters/Behavior.HtmlTableUpdate.js,
+# cloudera-ui/BehaviorFilters/Behavior.InputFilterHtmlTableZebra.js,
+# cloudera-ui/BehaviorFilters/Behavior.JFrameFormValidator.js,
+# cloudera-ui/BehaviorFilters/Behavior.MultiChecks.js,
+# cloudera-ui/BehaviorFilters/Behavior.SelectWithOther.js,
+# cloudera-ui/BehaviorFilters/Behavior.SideBySideSelect.js,
+# cloudera-ui/BehaviorFilters/Behavior.SizeTo.js,
+# cloudera-ui/BehaviorFilters/Behavior.SplitViewPostFold.js,
+# cloudera-ui/BehaviorFilters/Behavior.SplitViewScroller.js,
+# cloudera-ui/BehaviorFilters/Behavior.SubmitOnChange.js,
+# cloudera-ui/BehaviorFilters/Behavior.Timer.js,
+# cloudera-ui/Utilities/Events.Relay.js,
+# cloudera-ui/Utilities/Event.Mock.js,
+# cloudera-ui/UI/ART.SideBySideSelect.js,
+# cloudera-ui/UI/ContextMenu.js,
+# cloudera-ui/UI/FlashMessage.js,
+# cloudera-ui/UI/MultiChecks.js,
